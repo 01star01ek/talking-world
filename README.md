@@ -15,6 +15,6 @@
   
   ## 😊담당한 파트
   - 디자인 전부 기획
-  - html _ [index](https://github.com/01star01ek/talking-world/blob/main/index.html), [작가소개](https://github.com/01star01ek/talking-world/blob/main/author.html), 랭킹(일부), 커뮤니티
-  - css _ index, 작가소개, 랭킹 및 평점 (일부), 커뮤니티
-  - js _ index의 js 
+  - html ) [index](https://github.com/01star01ek/talking-world/blob/main/index.html), [작가소개](https://github.com/01star01ek/talking-world/blob/main/author.html), 랭킹(일부), 커뮤니티
+  - css ) index, 작가소개, 랭킹 및 평점 (일부), 커뮤니티
+  - js ) index의 js 
