@@ -18,3 +18,6 @@
   - html ) [index](https://github.com/01star01ek/talking-world/blob/main/index.html), [작가소개](https://github.com/01star01ek/talking-world/blob/main/author.html), 랭킹(일부), 커뮤니티
   - css ) index, 작가소개, 랭킹 및 평점 (일부), 커뮤니티
   - js ) index의 js 
+  
+  ##링크
+  https://01star01ek.github.io/talking-world/
