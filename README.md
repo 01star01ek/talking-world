@@ -19,5 +19,5 @@
   - css ) index, 작가소개, 랭킹 및 평점 (일부), 커뮤니티
   - js ) index의 js 
   
-  ##링크
+  # 링크
   https://01star01ek.github.io/talking-world/
